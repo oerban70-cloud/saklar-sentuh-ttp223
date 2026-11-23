@@ -5,7 +5,7 @@ sentuh TTP223 merasakan sentuhan jarimu, ESP32 membalik relay, dan lampu
 menyala atau padam — tanpa tombol mekanik, tanpa meraba saklar di gelap.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/0Mq3UuTUuUk
 
 ## Komponen
 
