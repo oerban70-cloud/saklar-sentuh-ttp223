@@ -7,6 +7,9 @@ menyala atau padam — tanpa tombol mekanik, tanpa meraba saklar di gelap.
 Video penjelasan (60 detik):
 https://youtube.com/shorts/0Mq3UuTUuUk
 
+Video prinsip kerja saklar (60 detik):
+https://youtube.com/shorts/zeIWi1nfZyk
+
 ## Komponen
 
 | Bagian | Keterangan |
